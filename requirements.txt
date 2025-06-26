@@ -1,5 +1,5 @@
+transformers==4.36.2
+torch>=2.0.0
+gtts
 streamlit
-transformers
-torch
-gTTS
-pillow
+Pillow
