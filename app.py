@@ -1,7 +1,8 @@
 import os
 import streamlit as st
 from PIL import Image
-from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoTokenizer, M2M100ForConditionalGeneration, M2M100Tokenizer
+from transformers.models.vision_encoder_decoder import VisionEncoderDecoderModel
+from transformers import  ViTImageProcessor, AutoTokenizer, M2M100ForConditionalGeneration, M2M100Tokenizer
 from gtts import gTTS
 import torch
 
