@@ -1,6 +1,5 @@
-torch
+streamlit
 transformers
-Pillow
-nltk
-opencv-python
-flask
+torch
+gTTS
+pillow
