@@ -1,5 +1,6 @@
+streamlit
 transformers==4.26.1
 torch>=2.0.0
 gtts
-streamlit
 Pillow
+nltk
